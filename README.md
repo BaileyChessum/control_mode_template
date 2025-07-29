@@ -1,9 +1,9 @@
 <a href="https://github.com/BaileyChessum/teleop_modular">
   <div align="center">
     <picture>
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BaileyChessum/teleop_modular/main/docs/assets/logo_text.svg">
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BaileyChessum/teleop_modular/main/docs/assets/logo_white_text.svg">
-      <img src="https://raw.githubusercontent.com/BaileyChessum/teleop_modular/main/docs/assets/logo_white_text.svg" width="625px" alt="teleop_modular logo">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BaileyChessum/teleop_modular/main/docs/images/logo_text.svg">
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BaileyChessum/teleop_modular/main/docs/images/logo_white_text.svg">
+      <img src="https://raw.githubusercontent.com/BaileyChessum/teleop_modular/main/docs/images/logo_white_text.svg" width="625px" alt="teleop_modular logo">
     </picture>
   </div>
 </a>
