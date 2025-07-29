@@ -110,7 +110,7 @@ CallbackReturn {{cookiecutter.control_mode_class_name}}::on_cleanup(const State 
 
   // Reset any held shared pointers
   speed_.reset();
-  publisher_.reset();
+  // publisher_.reset();
 
   params_ = Params();
 
