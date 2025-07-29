@@ -1,8 +1,8 @@
 {
   "project_name": "example_control_mode",
+  "control_mode_class_name": "ExampleControlMode",
   "author_name": "TODO: Author Name",
+  "author_email": "author@example.com",
   "license": "TODO: License Definition",
   "description": "A custom teleop_modular control mode.",
-  "package_name": "example_control_mode",
-  "control_mode_class_name": "ExampleControlMode"
 }

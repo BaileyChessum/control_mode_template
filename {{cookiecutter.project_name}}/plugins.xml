@@ -1,0 +1,6 @@
+<library path="{{cookiecutter.project_name}}">
+    <!-- Control Modes -->
+    <class name="{{cookiecutter.project_name}}/{{cookiecutter.control_mode_class_name}}" type="{{cookiecutter.project_name}}::{{cookiecutter.control_mode_class_name}}" base_class_type="control_mode::ControlMode">
+        <description>{{cookiecutter.description}}</description>
+    </class>
+</library>
