@@ -2,8 +2,9 @@ cmake_minimum_required(VERSION 3.8)
 project({{cookiecutter.project_name}})
 
 set(THIS_PACKAGE_INCLUDE_DEPENDS
-  pluginlib
   rclcpp
+  rclcpp_lifecycle
+  pluginlib
   control_mode
 )
 
